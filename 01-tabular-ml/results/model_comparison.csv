@@ -1,0 +1,5 @@
+model,best_params,cv_accuracy,cv_recall,cv_f1,cv_roc_auc
+LogisticRegression,{'C': 1},0.9736,0.9529,0.964,0.9958
+SVC,"{'C': 10, 'gamma': 0.01}",0.9758,0.9529,0.9669,0.9954
+GradientBoosting,"{'learning_rate': 0.1, 'n_estimators': 200}",0.9692,0.9471,0.9582,0.9911
+RandomForest,"{'max_depth': None, 'n_estimators': 100}",0.9648,0.9412,0.9519,0.9889
