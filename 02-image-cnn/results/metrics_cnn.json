@@ -1,0 +1,17 @@
+{
+  "cnn_test_accuracy": 0.9815,
+  "cnn_test_macro_f1": 0.981,
+  "cnn_best_val_accuracy": 0.9778,
+  "baseline_test_accuracy": {
+    "SVC (rbf)": 0.9963,
+    "LogisticRegression": 0.9741
+  },
+  "parameters": 13706,
+  "split_sizes": {
+    "train": 1257,
+    "val": 270,
+    "test": 270
+  },
+  "epochs": 40,
+  "seed": 42
+}
