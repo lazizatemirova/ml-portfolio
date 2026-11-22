@@ -1,0 +1,13 @@
+# Versions the projects were developed and tested with (Python 3.13). Newer patch versions should work.
+numpy>=2.5
+pandas>=3.0
+scikit-learn>=1.9
+matplotlib>=3.11
+joblib>=1.6
+torch>=2.15
+torchvision>=0.29
+fastapi>=0.165
+uvicorn>=0.54
+pydantic>=2.13
+httpx>=0.28
+pytest>=9.1
